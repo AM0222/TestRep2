@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="testextend" max_length="40" name="x_238018_testrep_testextend" type="collection">
+        <element label="AAAAAA" max_length="40" name="aaaaaa" type="string"/>
+    </element>
+</database>
